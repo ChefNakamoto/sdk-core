@@ -1,7 +1,7 @@
 import JSBI from 'jsbi'
 
 export enum SupportedChainId {
-  MAINNET = 1,
+  MAINNET = 250,
   ROPSTEN = 3,
   RINKEBY = 4,
   GOERLI = 5,
